@@ -7,7 +7,7 @@ The purpose of this document is to provide teams with the ability to continuousl
 ### How to use this document?
 
 Firstly this document (RDSA.md) should live in the root of all repositories where project-related work resides.
-Under the [**Checklist**](#checklist) heading you will find a list of SovTech standards and best practices presented in the form of questions.
+Under the [**Checklist**](#checklist) heading you will find a list of Angular standards and best practices presented in the form of questions.
 
 Each standard/question should be marked according to the following key:
 
@@ -49,7 +49,7 @@ Self-assessments should be conducted frequently, at least once per sprint. The o
 - 🟢 Is there a CONTRIBUTING.md file in this repo?
 - 🟢 Does the CONTRIBUTING.md file list the Gaming Connect commit guidelines?
 - 🟢 Are the Angular commit message guidelines being followed?
-- 🟢 Does the CONTRIBUTING.md file list the SovTech Gitflow and PR guidelines?
+- 🟢 Does the CONTRIBUTING.md file list the Angular Gitflow and PR guidelines?
 - 🟢 Is the correct Gitflow and PR guidelines being followed?
 - 🟢 Are PRs being reviewed?
 - 🟢 Have default reviewers been configured?
@@ -216,7 +216,7 @@ Self-assessments should be conducted frequently, at least once per sprint. The o
 
 - 🔴 Are all services detailed in the README?
 - 🔴 For each service, is the owner, price, usage and access instructions detailed in the README?
-- 🔴 For any service that SovTech has setup/subscribed to - has it been requested and cleared through Product Advance?
+- 🔴 For any service that Angular has setup/subscribed to - has it been requested and cleared through Product Advance?
 
 ## Meta
 
